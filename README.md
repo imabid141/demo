@@ -1,2 +1,3 @@
 # demo
-This is my first GitHub repository
+This is my first Git Repository
+Author: Ghulam Muhammad Mahar
